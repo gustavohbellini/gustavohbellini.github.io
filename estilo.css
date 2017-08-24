@@ -1,3 +1,6 @@
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
 body{
     font-family: 'Open Sans', sans-serif;
     background-color: #232B2B;
@@ -54,4 +57,11 @@ header, footer, .redes-sociais, .tecnologias{
     background-image: url(telefone.png);
     background-repeat: no-repeat;
     text-align: left;
+}
+
+.redes-sociais li{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: 7000px;
 }
