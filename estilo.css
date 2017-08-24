@@ -64,20 +64,6 @@ header, footer, .redes-sociais, .tecnologias{
     display: inline-block;
 }
 
-<!--.ico-linkedin{
-    width: 40px;
-    height: 40px;
-    background-image: url('linkedin.png');
-    background-repeat: no-repeat;
-}
-
-.ico-linkedin{
-    width: 40px;
-    height: 40px;
-    background-image: url('facebook.png');
-    background-repeat: no-repeat;
-}-->
-
 .ico{
     width: 40px;
     height: 40px;
